@@ -15,6 +15,9 @@
     "related": [
         "code-editors-syntax-highlighting",
         "code-editors-in-editor-linting",
-        "code-editors-hover-information"
+        "code-editors-hover-information",
+        "git-introduction",
+        "github-introduction",
+        "vs-code-terminal"
     ]
 }
