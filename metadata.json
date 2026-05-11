@@ -1,22 +1,20 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "VS Code; Extensions",
+    "slug": "vs-code-extensions",
+    "description": "An introduction to the concept of Extensions in VS Code, including examples and a discussion of how they can be used to customise the editor.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "vs-code"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "vs-code-introduction"
     ],
     "related": [
-        "",
-        ""
+        "code-editors-syntax-highlighting",
+        "code-editors-in-editor-linting",
+        "code-editors-hover-information"
     ]
 }
