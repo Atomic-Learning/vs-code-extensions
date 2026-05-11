@@ -10,7 +10,7 @@
     ],
     "duration": 5,
     "prerequisites": [
-        "vs-code-introduction"
+        "visual-studio-code-introduction"
     ],
     "related": [
         "code-editors-syntax-highlighting",
