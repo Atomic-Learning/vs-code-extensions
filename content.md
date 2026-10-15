@@ -18,7 +18,7 @@ One of the great advantages of VS Code is that, although it comes with a set of 
 
 # Extensions View
 
-Some extensions will be installed by default, and others can be installed from the VS Code Marketplace. To view installed extensions, open the Extensions view by pressing <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> on Windows or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> on macOS, or click the Extensions icon in the Activity Bar (on the left side of the interface by default):
+Some extensions will be installed by default, and others can be installed from the VS Code Marketplace. To view installed extensions, open the Extensions view by pressing `Ctrl`{.kbd}+`Shift`{.kbd}+`X`{.kbd} on Windows or `Cmd`{.kbd}+`Shift`{.kbd}+`X`{.kbd} on macOS, or click the Extensions icon in the Activity Bar (on the left side of the interface by default):
 
 ![Extensions icon in the Activity Bar](resources/extensions-icon.png)
 
